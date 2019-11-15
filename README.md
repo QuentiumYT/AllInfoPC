@@ -11,7 +11,7 @@
 
 >#### Allows to obtain all the information of your PC (Windows and components) in a text file.
 <br>
-![](https://quentium.fr/programs/Github/AllInfoPC.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/AllInfoPC.gif"></p>
 
 ## 📥 Installation
 
